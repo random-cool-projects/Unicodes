@@ -1,0 +1,3 @@
+apple mac command key:
+
+**⌘**
